@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Chocolate Chip Cookies",
-      "description": "Indulge in the rich, moist goodness of these classic chocolate chip cookies. Each bite offers a perfect balance of crispy edges and chewy centers, complemented by generous pockets of melted semisweet chocolate chips. ",
+      "description": "Indulge in the rich, moist goodness of these classic chocolate chip cookies. Each bite offers a perfect balance of crispy edges and chewy centers, complemented by generous pockets of melted semisweet chocolate chips.",
       "timeprepared": "45 minutes",
       "ingredients": [
         "2 and 1/4 cups all-purpose flour",
@@ -26,12 +26,13 @@
         "Drop dough by rounded tablespoons onto prepared baking sheets, spacing them about 2 inches apart.",
         "Bake in preheated oven for 9 to 11 minutes, or until golden brown.",
         "Remove from oven and let cool on baking sheets for 2 minutes before transferring to wire racks to cool completely."
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1568051243858-533a607809a5?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "2",
       "name": "New York Cheesecake",
-      "description": "Transport yourself to the bustling streets of New York City with each decadent bite of this creamy cheesecake. A buttery graham cracker crust provides the perfect foundation for the rich and velvety filling, which is made with a generous amount of cream cheese, eggs, and sour cream. ",
+      "description": "Transport yourself to the bustling streets of New York City with each decadent bite of this creamy cheesecake. A buttery graham cracker crust provides the perfect foundation for the rich and velvety filling, which is made with a generous amount of cream cheese, eggs, and sour cream.",
       "timeprepared": "4 hours",
       "ingredients": [
         "1 and 1/2 cups graham cracker crumbs",
@@ -54,7 +55,8 @@
         "Bake in preheated oven for 55 to 60 minutes, or until the edges are set and the center is slightly jiggly.",
         "Turn off the oven and leave the cheesecake inside with the door closed for 1 hour.",
         "Remove the cheesecake from the oven and let it cool completely on a wire rack. Refrigerate for at least 3 hours or overnight before serving."
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1621955511667-e2c316e4575d?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "3",
@@ -80,12 +82,13 @@
         "In a mixing bowl, whip heavy cream and vanilla extract until stiff peaks form. Spread the whipped cream over the bananas.",
         "If desired, garnish with chocolate shavings or dust with cocoa powder.",
         "Chill the banoffee pie in the refrigerator for at least 1 hour before serving."
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1608830597395-6738a70ff2bd?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "4",
       "name": "Lemon Bars",
-      "description": "Brighten up your day with the zesty goodness of these delightful Lemon Bars. A buttery shortbread crust serves as the perfect base for a tangy and refreshing lemon filling, made with fresh lemon juice and zest. ",
+      "description": "Brighten up your day with the zesty goodness of these delightful Lemon Bars. A buttery shortbread crust serves as the perfect base for a tangy and refreshing lemon filling, made with fresh lemon juice and zest.",
       "timeprepared": "1 hour",
       "ingredients": [
         "For the crust:",
@@ -112,12 +115,13 @@
         "Pour the filling over the hot crust. Return the pan to the oven and bake for an additional 20 to 25 minutes, or until the filling is set and the edges are lightly golden brown.",
         "Remove the lemon bars from the oven and let them cool completely in the pan on a wire rack.",
         "Once cooled, dust the top with powdered sugar. Cut into squares and serve."
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1534353875273-b5887cc1abf5?q=80&w=2304&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "5",
       "name": "Tiramisu",
-      "description": "Indulge in the irresistible allure of this classic Italian dessert, Tiramisu. Layers of coffee-soaked ladyfingers are nestled between luscious clouds of mascarpone cheese, creating a symphony of flavors and textures that dance on your palate. ",
+      "description": "Indulge in the irresistible allure of this classic Italian dessert, Tiramisu. Layers of coffee-soaked ladyfingers are nestled between luscious clouds of mascarpone cheese, creating a symphony of flavors and textures that dance on your palate.",
       "timeprepared": "4 hours",
       "ingredients": [
         "For the coffee mixture:",
@@ -144,12 +148,13 @@
         "Repeat the layers with remaining ladyfingers and mascarpone filling.",
         "Cover and refrigerate the tiramisu for at least 4 hours or overnight to allow the flavors to meld.",
         "Before serving, dust the top of the tiramisu with cocoa powder. Enjoy!"
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1681564334698-8c85a9b4b1f8?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "6",
       "name": "Strawberry Shortcake",
-      "description": "Celebrate the sweet abundance of summer with this delightful Strawberry Shortcake. Tender shortcakes, made with buttery pastry and hints of vanilla, are layered with juicy ripe strawberries and billowy clouds of whipped cream. ",
+      "description": "Celebrate the sweet abundance of summer with this delightful Strawberry Shortcake. Tender shortcakes, made with buttery pastry and hints of vanilla, are layered with juicy ripe strawberries and billowy clouds of whipped cream.",
       "timeprepared": "45 minutes",
       "ingredients": [
         "For the shortcakes:",
@@ -178,7 +183,8 @@
         "While the shortcakes are cooling, prepare the filling. In a mixing bowl, toss sliced strawberries with granulated sugar. Let sit for 15 to 20 minutes to allow the strawberries to release their juices.",
         "In another mixing bowl, whip heavy cream, powdered sugar, and vanilla extract until stiff peaks form.",
         "To assemble, split the cooled shortcakes in half horizontally. Spoon a generous amount of strawberries onto the bottom half of each shortcake, then top with a dollop of whipped cream. Place the top half of the shortcake over the whipped cream. Serve immediately and enjoy!"
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1622621746668-59fb299bc4d7?q=80&w=2466&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
