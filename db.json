@@ -185,6 +185,299 @@
         "To assemble, split the cooled shortcakes in half horizontally. Spoon a generous amount of strawberries onto the bottom half of each shortcake, then top with a dollop of whipped cream. Place the top half of the shortcake over the whipped cream. Serve immediately and enjoy!"
       ],
       "image": "https://images.unsplash.com/photo-1622621746668-59fb299bc4d7?q=80&w=2466&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "7",
+      "name": "Blueberry Muffins",
+      "description": "Enjoy these moist and flavorful blueberry muffins, bursting with juicy blueberries and a hint of vanilla. Perfect for breakfast or a sweet treat any time of day.",
+      "timeprepared": "30 minutes",
+      "ingredients": [
+        "1 and 1/2 cups all-purpose flour",
+        "3/4 cup granulated sugar",
+        "1/2 teaspoon salt",
+        "2 teaspoons baking powder",
+        "1/3 cup vegetable oil",
+        "1 egg",
+        "1/3 cup milk",
+        "1 teaspoon vanilla extract",
+        "1 cup fresh or frozen blueberries"
+      ],
+      "instructions": [
+        "Preheat your oven to 400°F (200°C). Grease or line a muffin tin with paper liners.",
+        "In a large mixing bowl, whisk together flour, sugar, salt, and baking powder.",
+        "In another bowl, mix vegetable oil, egg, milk, and vanilla extract.",
+        "Combine wet and dry ingredients, stirring until just combined.",
+        "Gently fold in blueberries.",
+        "Divide batter evenly among muffin cups.",
+        "Bake for 18 to 20 minutes, or until a toothpick inserted into the center comes out clean.",
+        "Remove from oven and let cool in the pan for 5 minutes before transferring to a wire rack to cool completely."
+      ],
+      "image": "https://images.unsplash.com/photo-1613119720614-61ad05237b9c?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "8",
+      "name": "Classic Apple Pie",
+      "description": "Savor the comforting flavors of a classic American apple pie. This dessert features a flaky, buttery crust filled with tender apples, cinnamon, and a hint of lemon, baked to golden perfection.",
+      "timeprepared": "1 hour 30 minutes",
+      "ingredients": [
+        "For the crust:",
+        "2 and 1/2 cups all-purpose flour",
+        "1 teaspoon salt",
+        "1 cup unsalted butter, cold and cut into cubes",
+        "6 to 8 tablespoons ice water",
+        "For the filling:",
+        "6 cups thinly sliced apples (such as Granny Smith or Honeycrisp)",
+        "3/4 cup granulated sugar",
+        "1 tablespoon lemon juice",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon ground nutmeg",
+        "2 tablespoons unsalted butter, cut into small pieces"
+      ],
+      "instructions": [
+        "To make the crust, in a large mixing bowl, combine flour and salt. Cut in cold butter using a pastry cutter or fork until the mixture resembles coarse crumbs.",
+        "Gradually add ice water, 1 tablespoon at a time, tossing with a fork until the dough comes together. Divide dough in half, shape into discs, wrap in plastic wrap, and refrigerate for at least 1 hour.",
+        "Preheat your oven to 425°F (220°C).",
+        "On a lightly floured surface, roll out one disc of dough to fit a 9-inch pie dish. Transfer the dough to the pie dish and trim excess dough around the edges.",
+        "In a large bowl, toss sliced apples with granulated sugar, lemon juice, cinnamon, and nutmeg. Pour filling into the prepared pie crust and dot with butter pieces.",
+        "Roll out the second disc of dough and place it over the filling. Trim and crimp the edges to seal. Cut slits in the top crust to vent steam.",
+        "Bake in preheated oven for 45 to 55 minutes, or until the crust is golden brown and the filling is bubbly.",
+        "Remove from oven and let cool on a wire rack before serving."
+      ],
+      "image": "https://images.unsplash.com/photo-1562007908-69cf18a6da04?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "9",
+      "name": "Raspberry Cheesecake",
+      "description": "Delight in the elegance of a creamy cheesecake with a swirl of tart raspberry puree. A buttery graham cracker crust supports the velvety cheesecake filling, creating a dessert that's as beautiful as it is delicious.",
+      "timeprepared": "4 hours",
+      "ingredients": [
+        "1 and 1/2 cups graham cracker crumbs",
+        "1/4 cup granulated sugar",
+        "1/2 cup unsalted butter, melted",
+        "4 (8-ounce) packages cream cheese, softened",
+        "1 cup granulated sugar",
+        "4 large eggs",
+        "2 teaspoons vanilla extract",
+        "1 cup sour cream",
+        "1/4 cup all-purpose flour",
+        "1 cup fresh or frozen raspberries",
+        "2 tablespoons granulated sugar"
+      ],
+      "instructions": [
+        "Preheat your oven to 325°F (160°C). Wrap the outside of a 9-inch springform pan with aluminum foil.",
+        "In a mixing bowl, combine graham cracker crumbs, 1/4 cup granulated sugar, and melted butter. Press the mixture evenly into the bottom of the prepared pan.",
+        "In a large mixing bowl, beat cream cheese and 1 cup granulated sugar until smooth.",
+        "Add eggs, one at a time, beating well after each addition. Stir in vanilla extract, sour cream, and flour until well combined.",
+        "Pour the cheesecake batter over the prepared crust in the springform pan.",
+        "In a blender or food processor, puree raspberries with 2 tablespoons granulated sugar until smooth. Drop spoonfuls of raspberry puree onto the cheesecake batter. Use a knife or skewer to swirl the raspberry puree into the batter to create a marbled effect.",
+        "Place the springform pan in a large roasting pan. Fill the roasting pan with enough hot water to reach halfway up the sides of the springform pan.",
+        "Bake in preheated oven for 55 to 60 minutes, or until the edges are set and the center is slightly jiggly.",
+        "Turn off the oven and leave the cheesecake inside with the door closed for 1 hour.",
+        "Remove the cheesecake from the oven and let it cool completely on a wire rack. Refrigerate for at least 3 hours or overnight before serving."
+      ],
+      "image": "https://images.unsplash.com/photo-1628838617281-065549dd37fe?q=80&w=2680&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "10",
+      "name": "Peach Cobbler",
+      "description": "Enjoy the warm flavors of summer with this comforting peach cobbler. Juicy peaches are topped with a sweet and buttery biscuit crust, creating a dessert that's perfect served warm with a scoop of vanilla ice cream.",
+      "timeprepared": "1 hour 15 minutes",
+      "ingredients": [
+        "For the peach filling:",
+        "6 cups sliced fresh or canned peaches",
+        "1 cup granulated sugar",
+        "1/4 cup all-purpose flour",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon ground nutmeg",
+        "1 tablespoon lemon juice",
+        "For the biscuit topping:",
+        "1 and 1/2 cups all-purpose flour",
+        "1/3 cup granulated sugar",
+        "1 and 1/2 teaspoons baking powder",
+        "1/2 teaspoon salt",
+        "1/2 cup unsalted butter, cold and cut into small pieces",
+        "1/2 cup milk",
+        "1 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Preheat your oven to 375°F (190°C). Grease a 9x13-inch baking dish.",
+        "In a large bowl, combine sliced peaches, 1 cup granulated sugar, flour, cinnamon, nutmeg, and lemon juice. Toss until the peaches are evenly coated. Pour into the prepared baking dish.",
+        "In another bowl, whisk together flour, 1/3 cup granulated sugar, baking powder, and salt.",
+        "Cut in cold butter pieces using a pastry cutter or fork until the mixture resembles coarse crumbs.",
+        "Stir in milk and vanilla extract until just combined. Drop spoonfuls of the biscuit topping over the peach filling.",
+        "Bake in preheated oven for 40 to 45 minutes, or until the topping is golden brown and the filling is bubbly.",
+        "Remove from oven and let cool slightly before serving. Serve warm with vanilla ice cream, if desired."
+      ],
+      "image": "https://images.unsplash.com/photo-1601000938365-f182c5ec2f77?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "11",
+      "name": "Key Lime Pie",
+      "description": "Experience a taste of the tropics with this tangy and refreshing Key Lime Pie. A buttery graham cracker crust is filled with a smooth and creamy lime filling, creating a perfect balance of sweetness and citrus.",
+      "timeprepared": "3 hours",
+      "ingredients": [
+        "1 and 1/2 cups graham cracker crumbs",
+        "1/3 cup granulated sugar",
+        "1/2 cup unsalted butter, melted",
+        "4 large egg yolks",
+        "2 teaspoons lime zest",
+        "1/2 cup fresh lime juice",
+        "1 (14-ounce) can sweetened condensed milk",
+        "1 cup heavy cream",
+        "2 tablespoons powdered sugar",
+        "1 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (175°C).",
+        "In a mixing bowl, combine graham cracker crumbs, granulated sugar, and melted butter. Press the mixture evenly into the bottom and up the sides of a 9-inch pie dish to form the crust.",
+        "Bake the crust in the preheated oven for 10 minutes. Remove from oven and let it cool while preparing the filling.",
+        "In another mixing bowl, whisk together egg yolks and lime zest until well combined.",
+        "Gradually whisk in sweetened condensed milk and lime juice until smooth.",
+        "Pour the filling into the cooled pie crust.",
+        "Bake the pie for 15 minutes, then remove from oven and let it cool completely on a wire rack.",
+        "Once cooled, refrigerate the pie for at least 2 hours or until set.",
+        "Before serving, whip heavy cream, powdered sugar, and vanilla extract until stiff peaks form. Spread over the chilled pie. Optionally, garnish with lime slices or zest."
+      ],
+      "image": "https://images.unsplash.com/photo-1601110307888-f0eafc2823d0?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "12",
+      "name": "Mango Sticky Rice",
+      "description": "Indulge in the exotic flavors of Thailand with this delicious Mango Sticky Rice dessert. Sweet sticky rice is topped with ripe mango slices and drizzled with creamy coconut sauce, creating a delightful blend of textures and flavors.",
+      "timeprepared": "1 hour",
+      "ingredients": [
+        "1 cup glutinous rice (sticky rice)",
+        "1 cup coconut milk",
+        "1/2 cup granulated sugar",
+        "1/4 teaspoon salt",
+        "2 ripe mangoes, peeled and sliced",
+        "Toasted sesame seeds, for garnish (optional)"
+      ],
+      "instructions": [
+        "Rinse sticky rice under cold water until the water runs clear. Soak rice in water for 30 minutes to 1 hour.",
+        "Drain the rice and steam it in a steamer basket or rice cooker for about 20 minutes, or until tender.",
+        "While the rice is cooking, prepare the coconut sauce. In a saucepan, combine coconut milk, granulated sugar, and salt. Heat over medium heat until sugar dissolves and the mixture is smooth. Remove from heat and let it cool slightly.",
+        "Transfer cooked sticky rice to a bowl and pour half of the warm coconut sauce over the rice. Mix well to coat the rice evenly.",
+        "Cover the rice with a damp cloth and let it sit for 10-15 minutes to absorb the sauce.",
+        "To serve, spoon sticky rice onto serving plates. Arrange mango slices on top of the rice.",
+        "Drizzle the remaining coconut sauce over the mangoes.",
+        "Optionally, sprinkle toasted sesame seeds over the dish for garnish."
+      ],
+      "image": "https://images.unsplash.com/photo-1711161988375-da7eff032e45?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "13",
+      "name": "Pecan Pie",
+      "description": "Enjoy the rich flavors of the South with this classic Pecan Pie. A flaky pastry crust is filled with a sweet and gooey mixture of pecans, sugar, and butter, creating a decadent dessert that's perfect for any occasion.",
+      "timeprepared": "1 hour 30 minutes",
+      "ingredients": [
+        "1 single pie crust, unbaked",
+        "1 and 1/2 cups pecan halves",
+        "3 large eggs",
+        "1 cup light corn syrup",
+        "1/2 cup granulated sugar",
+        "1/4 cup unsalted butter, melted",
+        "1 teaspoon vanilla extract",
+        "1/4 teaspoon salt"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (175°C).",
+        "Place the pie crust in a 9-inch pie dish and crimp the edges as desired.",
+        "Spread pecan halves evenly over the bottom of the pie crust.",
+        "In a mixing bowl, whisk together eggs, corn syrup, granulated sugar, melted butter, vanilla extract, and salt until well combined.",
+        "Pour the mixture over the pecans in the pie crust.",
+        "Bake in the preheated oven for 50 to 60 minutes, or until the filling is set and the crust is golden brown.",
+        "Remove from oven and let it cool completely on a wire rack before serving."
+      ],
+      "image": "https://plus.unsplash.com/premium_photo-1714934623889-324ae0abda55?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "14",
+      "name": "Red Velvet Cake",
+      "description": "Delight in the luxurious flavor and vibrant color of Red Velvet Cake. Moist layers of cocoa-flavored red cake are sandwiched between smooth cream cheese frosting, creating a dessert that's as stunning as it is delicious.",
+      "timeprepared": "2 hours",
+      "ingredients": [
+        "For the cake layers:",
+        "2 and 1/2 cups all-purpose flour",
+        "1 and 1/2 cups granulated sugar",
+        "1 teaspoon baking soda",
+        "1 teaspoon baking powder",
+        "1 teaspoon salt",
+        "1 tablespoon unsweetened cocoa powder",
+        "1 and 1/2 cups vegetable oil",
+        "1 cup buttermilk, room temperature",
+        "2 large eggs, room temperature",
+        "2 tablespoons red food coloring",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon white vinegar",
+        "For the cream cheese frosting:",
+        "16 ounces cream cheese, softened",
+        "1/2 cup unsalted butter, softened",
+        "4 cups powdered sugar",
+        "1 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (175°C). Grease and flour three 9-inch round cake pans.",
+        "In a large mixing bowl, sift together flour, sugar, baking soda, baking powder, salt, and cocoa powder.",
+        "In another bowl, whisk together vegetable oil, buttermilk, eggs, red food coloring, vanilla extract, and white vinegar.",
+        "Add the wet ingredients to the dry ingredients and mix until smooth and well combined.",
+        "Divide the batter evenly among the prepared cake pans.",
+        "Bake in preheated oven for 25 to 30 minutes, or until a toothpick inserted into the center comes out clean.",
+        "Remove from oven and let the cakes cool in the pans for 10 minutes before transferring to wire racks to cool completely.",
+        "While the cakes are cooling, prepare the cream cheese frosting. In a large bowl, beat together softened cream cheese and butter until smooth.",
+        "Gradually add powdered sugar and vanilla extract, beating until light and fluffy.",
+        "Once the cakes are completely cooled, frost the top of each cake layer with the cream cheese frosting. Stack the layers on a serving plate, spreading frosting between each layer and over the top and sides of the cake."
+      ],
+      "image": "https://plus.unsplash.com/premium_photo-1713920189876-e07a673cd572?q=80&w=2669&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "15",
+      "name": "Molten Lava Cake",
+      "description": "Decadent individual chocolate cakes with a gooey molten center.",
+      "ingredients": [
+        "1/2 cup unsalted butter",
+        "4 ounces bittersweet chocolate, chopped",
+        "1 cup powdered sugar",
+        "2 large eggs",
+        "2 large egg yolks",
+        "1 teaspoon vanilla extract",
+        "1/2 cup all-purpose flour",
+        "Pinch of salt",
+        "Vanilla ice cream (optional, for serving)"
+      ],
+      "instructions": [
+        "Preheat oven to 425°F (220°C). Grease four 6-ounce ramekins and place on a baking sheet.",
+        "Melt butter and chocolate in a double boiler or microwave, stirring until smooth.",
+        "Whisk in powdered sugar until smooth. Add eggs and egg yolks, one at a time, whisking well after each addition.",
+        "Stir in vanilla extract. Gently fold in flour and salt until just combined.",
+        "Divide batter evenly among ramekins. Bake for 12-14 minutes, until the edges are set but the centers are still soft.",
+        "Let cool for 1 minute. Run a knife around the edges to loosen, then invert onto plates. Serve warm with vanilla ice cream, if desired."
+      ],
+      "image": "https://images.unsplash.com/photo-1617305855058-336d24456869?q=80&w=2680&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "16",
+      "name": "Chocolate Mousse",
+      "description": "A rich and creamy chocolate mousse, perfect for a luxurious dessert.",
+      "ingredients": [
+        "6 ounces semi-sweet chocolate, chopped",
+        "3 tablespoons unsalted butter, diced",
+        "3 large eggs, separated",
+        "1/2 teaspoon cream of tartar",
+        "1/4 cup plus 2 tablespoons granulated sugar",
+        "1/2 cup heavy cream",
+        "1 teaspoon vanilla extract",
+        "Whipped cream and chocolate shavings, for garnish"
+      ],
+      "instructions": [
+        "Melt the chocolate and butter in a double boiler or microwave, stirring until smooth. Let cool slightly.",
+        "In a large bowl, beat the egg whites with cream of tartar until soft peaks form. Gradually add 1/4 cup sugar and beat until stiff peaks form.",
+        "In another bowl, beat the egg yolks with the remaining 2 tablespoons sugar until pale and thick. Stir in the melted chocolate mixture until well combined.",
+        "In a separate bowl, whip the heavy cream with the vanilla extract until soft peaks form. Gently fold the whipped cream into the chocolate mixture.",
+        "Fold in the beaten egg whites in two additions until no white streaks remain.",
+        "Spoon the mousse into serving dishes and refrigerate for at least 2 hours, or until set. Garnish with whipped cream and chocolate shavings before serving."
+      ],
+      "image": "https://images.unsplash.com/photo-1496174883999-edcc585a373f?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
